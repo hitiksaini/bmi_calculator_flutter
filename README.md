@@ -1,5 +1,5 @@
-# bmicalculator
-
+# BMIcalculator⚡
+## [Hitik Saini](https://hitik20.tech/)
 A new Flutter application.
 
 ## Getting Started
