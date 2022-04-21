@@ -1,5 +1,4 @@
 ## BMIcalculator⚡
-###  Project by [Hitik Saini](https://hitik20.tech/)
 This is a basic android + iOS BMI_Calculator mobile app coded in Dart(Flutter).
 #### You will need a Flutter SDK for running this app in Android Studio.
 
@@ -21,5 +20,3 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-
-#### Note:- You would require a lot of dependencies to get this app running, feel free to contact if you find it odd. 
